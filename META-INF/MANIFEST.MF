@@ -1,0 +1,4 @@
+Manifest-Version: 1.1
+Main-Class: mam3/ipa/projet/InterfaceUtilisateur
+Created-By: 11.0.17 (Ubuntu)
+
